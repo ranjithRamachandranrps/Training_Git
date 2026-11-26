@@ -1,0 +1,26 @@
+Project Name: Ranjith Portfolio
+
+Description:
+Personal portfolio website to showcase my profile, technical skills, projects, and professional experience.
+
+Technologies Used:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Angular
+- Java 
+- Spring
+- Springboot
+- Microservice
+ 
+Sections:
+1. Home
+2. About Me
+3. Technical Skills
+4. Work Experience
+5. Projects
+6. Education
+7. Contact Me
+
+Developer: Ranjith Ramachandran
