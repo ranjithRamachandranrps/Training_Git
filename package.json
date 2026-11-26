@@ -1,0 +1,7 @@
+{
+  "name": "ranjith-portfolio",
+  "version": "1.0.0",
+  "description": "Developer portfolio of Ranjith Ramachandran",
+  "scripts": { "start": "npx live-server --port=5500 --open=/index.html" },
+  "license": "MIT"
+}
